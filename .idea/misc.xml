@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidITP/DailyHunt/app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.1455" />
         <entry key="..\:/AndroidITP/DailyHunt/app/src/main/res/layout/activity_category.xml" value="0.25" />
         <entry key="..\:/AndroidITP/DailyHunt/app/src/main/res/layout/activity_settings.xml" value="0.18885869565217392" />
         <entry key="..\:/AndroidITP/DailyHunt/app/src/main/res/layout/activity_splash.xml" value="0.18070652173913043" />
+        <entry key="..\:/AndroidITP/DailyHunt/app/src/main/res/layout/content_main.xml" value="0.18885869565217392" />
+        <entry key="..\:/AndroidITP/DailyHunt/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/AndroidITP/DailyHunt/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1455" />
       </map>
     </option>
   </component>

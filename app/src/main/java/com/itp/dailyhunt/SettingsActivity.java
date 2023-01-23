@@ -12,8 +12,7 @@ public class SettingsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_settings);
 
 
-
-  /*      var name= intent.getStringExtra("category")
+  /*    var name= intent.getStringExtra("category")
         textView.setText(name+" coming soon")*/
     }
 }
